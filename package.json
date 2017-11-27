@@ -1,0 +1,22 @@
+{
+  "name": "node-cep-cli",
+  "version": "0.1.0",
+  "description": "Consulta de CEP via linha de comando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardothibes/node-cep-cli.git"
+  },
+  "keywords": [
+    "cep"
+  ],
+  "author": "Leonardo Thibes <leonardothibes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardothibes/node-cep-cli/issues"
+  },
+  "homepage": "https://github.com/leonardothibes/node-cep-cli#readme"
+}
