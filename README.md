@@ -1,12 +1,12 @@
-# NPM Skeleton [![npm](http://img.shields.io/npm/v/[nome-do-projeto].svg)](https://www.npmjs.com/package/[nome-do-projeto]) ![Downloads](https://img.shields.io/npm/dm/[nome-do-projeto].svg) [![Build Status](https://secure.travis-ci.org/leonardothibes/[nome-do-projeto].png)](http://travis-ci.org/leonardothibes/[nome-do-projeto]) [![Package Quality](http://npm.packagequality.com/shield/[nome-do-projeto].svg)](http://packagequality.com/#?package=[nome-do-projeto]) [![License](https://img.shields.io/npm/l/[nome-do-projeto].svg)](LICENSE)
+# CEP-CLI [![npm](http://img.shields.io/npm/v/node-cep-cli.svg)](https://www.npmjs.com/package/node-cep-cli) ![Downloads](https://img.shields.io/npm/dm/node-cep-cli.svg) [![Build Status](https://secure.travis-ci.org/leonardothibes/node-cep-cli.png)](http://travis-ci.org/leonardothibes/node-cep-cli) [![Package Quality](http://npm.packagequality.com/shield/node-cep-cli.svg)](http://packagequality.com/#?package=node-cep-cli) [![License](https://img.shields.io/npm/l/node-cep-cli.svg)](LICENSE)
 
-Aqui vai uma pequena descrição do projeto, falando um pouco sobre seu propósito e os problemas que ele se propõe a resolver.
+Consulta de CEP via linha de comando.
 
 Installation
 ------------
 
 ```bash
-npm install [nome-do-projeto] --save
+npm install node-cep-cli --save
 ```
 
 Examples
