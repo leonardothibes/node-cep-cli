@@ -1,6 +1,6 @@
 {
   "name": "node-cep-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Consulta de CEP via linha de comando",
   "main": "index.js",
   "scripts": {
