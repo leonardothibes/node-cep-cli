@@ -12,14 +12,45 @@ npm install node-cep-cli --save
 Examples
 --------
 
-* [Some function](#some-function)
+* [Consultando](#consultando)
+* [Help](#help)
+* [Version](#version)
 
-Some function
--------------
+Consultando
+-----------
 
 ```js
-// Aqui vão os exemplos de uso.
+cep 01315-010
 ```
+
+Help
+----
+
+Exibe a mensagem de help.
+
+```bash
+cpf -h
+```
+```bash
+cpf --help
+```
+
+```bash
+cpf help
+```
+
+A saída do comando será:
+
+```bash
+Gerador e validador de CPF via linha de comando (node-cep-cli - 1.0.0)
+Uso: cpf [CPF para validar]|<command> [options]
+
+  -m               Inclui máscara na geração de CEPs
+  -q               Define a quantidade de CEPs a serem gerados
+  -v|--version     Exibe o número da versão
+  -h|--help        Exibe esta mensagem de help
+
+Para maiores informações: https://www.npmjs.com/package/node-cep-cli
 
 Test and development
 --------------------
